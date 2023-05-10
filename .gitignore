@@ -1,0 +1,12 @@
+# dependencies
+/library/node_modules
+/my-app/node_modules
+
+# Editor directories and files
+.idea
+.vscode
+
+# Build outputs
+/library/storybook-static
+/library/dist
+
